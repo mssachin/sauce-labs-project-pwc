@@ -1,0 +1,24 @@
+
+  [
+
+    {
+      "browser": "chrome",
+      "version": "78",
+      "platform": "Windows 10",
+      "beanName": "Chrome-Windows 10"
+    },
+    {
+      "browser": "safari",
+      "version": "latest",
+      "platform": "macOS 10.14",
+      "beanName": "Safari-10.14"
+
+    },
+    {
+      "browser": "edge",
+      "version": "latest",
+      "platform": "Windows 10",
+      "beanName": "Safari-10.14"
+
+    }
+  ]

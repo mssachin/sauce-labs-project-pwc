@@ -1,0 +1,24 @@
+{
+  "Sachin":{
+    "Business User": "sachin.mylavarapu@pwc.com.sachin",
+    "Admin User": "admin@admin.com"
+  },
+    "QA": {
+      "System Administrator": "sachin.mylavarapu@pwc.com.qa"
+    },
+  "SIT": {
+    "System Administrator": "sachin.mylavarapu@pwc.com.sit"
+  },
+  "UAT": {
+    "System Administrator": "sachin.mylavarapu@pwc.com.uat"
+  },
+  "POC": {
+    "System Administrator": "sachin.mylavarapu@pwc.com.poc"
+  },
+  "TEST": {
+    "System Administrator": "sachin.mylavarapu@pwc.com.test"
+  }
+
+
+}
+
